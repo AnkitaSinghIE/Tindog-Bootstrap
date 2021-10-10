@@ -1,4 +1,4 @@
-# TinDog Starting Files
+# TinDog
 ## Introduction
 This ia a design of a commerce website whereb you are able to buy or sells the dogs of your choice
 ## Technology
